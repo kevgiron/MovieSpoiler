@@ -1,0 +1,9 @@
+body {
+    background-color: DarkCyan;
+}
+span:hover {
+    background-color: yellow;
+}
+span {
+    color: DarkCyan;
+}
